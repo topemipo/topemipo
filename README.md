@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/1VJ6Qs1gl3aL7tep7L5lUa0Asx5FRGZp_/view?usp=sharing)
+ 
 
 # Hello World, I'm Temi 👋
 
@@ -11,11 +11,9 @@
 - ⚡ Fun fact: I'm a really good teacher. I can break down the most complicated concept to something very simple and relatable.
 
 ### Talk with me, I am kinda awesome 😂 :
-<!-- Your social media links -->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
 
-![Your Illustration]([Your-Illustration-URL](https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif))
-
-<!-- You can also add a GitHub stats card here -->
 
 
 ## 🔧 Technologies & Tools
@@ -40,9 +38,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
 ## 🌟 Highlighted Projects
-- **[Project Name]**: Brief description. `[View Project](URL)`
-- **[Another Project Name]**: Brief description. `[View Project](URL)`
-
-## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn](URL)
-- Twitter: [Your Twitter](URL)
+- **Flower Classification with CNNs**: Brief description. `[View Project](URL)`
+- **Exploratory Data Analysis on Melanoma Dataset**: Brief description. `[View Project](URL)`
