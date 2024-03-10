@@ -3,7 +3,7 @@
 
 # Hello World, I'm Temi 👋
 
-## I'm an Artificial Intelligence Masters Student, Blogger and SDG 4 and 5 advocate
+## I'm an Artificial Intelligence Masters Student, Maths Tutor, Blogger and SDG 4 and 5 advocate
 
 - 📚 You can find my blog [here](https://medium.com/@themieadeyelu/diary-of-an-ai-masters-student-in-the-uk-my-repository-4a6dc38fdc29)
 - ✍️ I’m currently working on data mining and unsupervised learning project.
