@@ -1,5 +1,4 @@
-![ML Engineer Banner](https://drive.google.com/uc?export=view&id=1CIv5nN6LkjzyP8UBbX97x8qucFcRCrJd)
-
+![ML Engineer Banner](https://drive.google.com/uc?export=view&id=1d4ZksJgnoCLyuCD5L0UQrXssGdEj37IL)
 
 # Hello World, I'm Temi 👋
 
