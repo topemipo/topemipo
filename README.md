@@ -11,7 +11,7 @@
 - 🤔 Ask me about machine learning.
 - ⚡ Fun fact: I'm a really good teacher. I can break down the most complicated concept to something very simple and relatable.
 
-### Some modules i've taken in school and their related projects 🤗:
+## Some modules i've taken in school and their related projects 🤗:
 <div align="center">
   <table>
     <tr>
@@ -45,7 +45,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-### Talk with me, I am kinda awesome 😂 :
+## Talk with me, I am kinda awesome 😂 :
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeyelu-temitope/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/_themie_)
 
