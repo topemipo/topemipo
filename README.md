@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td>Deep Learning</td>
-      <td>Flower Classification</td>
+      <td>Flower Classification with CNNs</td>
     </tr>
   </table>
 </div>
