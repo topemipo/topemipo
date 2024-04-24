@@ -4,7 +4,7 @@
 
 ## I'm an Artificial Intelligence Masters Student, Maths Tutor and Blogger
 
-- 😊 My resume is sitting pretty [here](https://drive.google.com/file/d/1IeqxMze5R-7FI5lOzgtgQnhDDRNfMARs/view?usp=sharing)
+- 😊 My resume is sitting pretty [here](https://drive.google.com/file/d/1aV985p2V9vEHVLV93R31yzTPqlIR5lsQ/view)
 - 📚 You can find my blog [here](https://medium.com/@themieadeyelu/diary-of-an-ai-masters-student-in-the-uk-my-repository-4a6dc38fdc29)
 - ✍️ I’m currently working on data mining and unsupervised learning project.
 - 🌱 I’m currently learning about sentiment analysis.
